@@ -89,17 +89,21 @@ plot(t,eFM);
 ~~~
 
 Output Waveform
+
 <img width="1207" height="722" alt="Screenshot 2026-09-14 152156" src="https://github.com/user-attachments/assets/fea5354e-4e79-499d-8a24-fd035ee27d36" />
 
 
 
 Tabulation
+
+
 <img width="888" height="1562" alt="image" src="https://github.com/user-attachments/assets/fd216a7b-b82f-4044-b904-c5a839b9ef89" />
 
 
 
 
 Calculation
+
 <img width="933" height="1600" alt="image" src="https://github.com/user-attachments/assets/90fbecd6-1f2f-4cc6-809f-791f1a3aeae0" />
 
 
